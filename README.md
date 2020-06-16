@@ -7,6 +7,9 @@
     - npm init
 - Install required postman-request HTTP request client npm package by running the following command from the console in your project. Newer versions may work as well. 
   - npm i postman-request@2.88.1-postman.23
+- Sign up for using WeatherStack.com free tier API - Get an access key. 
+- Sign up for using MapBox.com free tier API for location services - Get public access token. 
+- Edit URL's in the code with your access keys.
 # Usage
 node app.js <city>
   
