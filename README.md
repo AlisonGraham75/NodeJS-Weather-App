@@ -1,7 +1,7 @@
 # NodeJS-Weather-App
 ###  A simple command-line app to show how to create http requests to weather and location api's, how to use callback functions, and handle errors.
 # System Setup
--  Download NodeJS from Nodejs.org
+-  Download and install NodeJS from Nodejs.org
 -  Place JavaScript files into a project. I use Visual Studio Code, a free IDE. 
 -  From the console, initialize the NPM package manager in your project
     - npm init
